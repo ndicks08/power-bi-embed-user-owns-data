@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niadicks\\OneDrive - Jobscope\\Documents\\ndicks\\dev\\NiaDicksSummer2025\\vite-react-dashboard-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A8CE0-F8B6-45FD-A157-436EFA4AF068}|asp-net-core-server\\asp-net-core-server.csproj|c:\\users\\niadicks\\onedrive - jobscope\\documents\\ndicks\\dev\\niadickssummer2025\\vite-react-dashboard-app\\asp-net-core-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8A8CE0-F8B6-45FD-A157-436EFA4AF068}|asp-net-core-server\\asp-net-core-server.csproj|solutionrelative:asp-net-core-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A8CE0-F8B6-45FD-A157-436EFA4AF068}|asp-net-core-server\\asp-net-core-server.csproj|c:\\users\\niadicks\\onedrive - jobscope\\documents\\ndicks\\dev\\niadickssummer2025\\vite-react-dashboard-app\\asp-net-core-server\\dashboardapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8A8CE0-F8B6-45FD-A157-436EFA4AF068}|asp-net-core-server\\asp-net-core-server.csproj|solutionrelative:asp-net-core-server\\dashboardapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardApiController.cs",
+              "DocumentMoniker": "C:\\Users\\niadicks\\OneDrive - Jobscope\\Documents\\ndicks\\dev\\NiaDicksSummer2025\\vite-react-dashboard-app\\asp-net-core-server\\DashboardApiController.cs",
+              "RelativeDocumentMoniker": "asp-net-core-server\\DashboardApiController.cs",
+              "ToolTip": "C:\\Users\\niadicks\\OneDrive - Jobscope\\Documents\\ndicks\\dev\\NiaDicksSummer2025\\vite-react-dashboard-app\\asp-net-core-server\\DashboardApiController.cs",
+              "RelativeToolTip": "asp-net-core-server\\DashboardApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:55:17.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\niadicks\\OneDrive - Jobscope\\Documents\\ndicks\\dev\\NiaDicksSummer2025\\vite-react-dashboard-app\\asp-net-core-server\\Program.cs",
+              "RelativeDocumentMoniker": "asp-net-core-server\\Program.cs",
+              "ToolTip": "C:\\Users\\niadicks\\OneDrive - Jobscope\\Documents\\ndicks\\dev\\NiaDicksSummer2025\\vite-react-dashboard-app\\asp-net-core-server\\Program.cs",
+              "RelativeToolTip": "asp-net-core-server\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:43:28.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
