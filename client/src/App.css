@@ -41,6 +41,7 @@
   color: #888;
 }
 
+/* css to make sure report spans the page*/
 .full-page-report {
   display: flex;
   justify-content: center;

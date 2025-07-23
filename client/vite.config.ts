@@ -5,6 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: './',
+  // ensure that the vite is run on 5173
+  // if port is user throw error
   server: {
     port: 5173,
     strictPort: true,
