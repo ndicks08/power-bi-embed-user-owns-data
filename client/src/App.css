@@ -1,7 +1,7 @@
 #root {
-  max-width: 1280px;
+  width: 100vw;
+  height: 100vh;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
 }
 
@@ -39,4 +39,20 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.full-page-report {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background: #0967d2;
+}
+
+.report-style-class {
+  width: 95%;
+  height: 95% !important;
+  margin: 0;
+  padding: 0;
 }

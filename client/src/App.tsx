@@ -4,6 +4,7 @@ import { useMsal } from '@azure/msal-react';
 import { loginRequest } from './msalConfig';
 import { PowerBIEmbed } from 'powerbi-client-react';
 import { models, type IEmbedConfiguration, Embed } from 'powerbi-client';
+import './App.css'
 
 interface EmbedTokenResponse {
     embedToken: string;
@@ -60,7 +61,7 @@ const App: React.FC = () => {
     );
 
     return (
-        <div style={{ height: '100vh' }}>
+        <div id="reportContainer" className="full-page-report" style={{ width: '100vw', height: '100vh' }}>
             <PowerBIEmbed
                 embedConfig={embedConfig}
                 cssClassName="report-style-class"
