@@ -2,7 +2,75 @@
   "hash": "7d973bdc",
   "configHash": "2195968f",
   "lockfileHash": "523c204f",
-  "browserHash": "fd0c65cf",
-  "optimized": {},
-  "chunks": {}
+  "browserHash": "fdf49444",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "20980cd6",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c96b6d77",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "40469837",
+      "needsInterop": true
+    },
+    "@azure/msal-browser": {
+      "src": "../../node_modules/@azure/msal-browser/dist/index.mjs",
+      "file": "@azure_msal-browser.js",
+      "fileHash": "734d01ff",
+      "needsInterop": false
+    },
+    "@azure/msal-react": {
+      "src": "../../node_modules/@azure/msal-react/dist/index.js",
+      "file": "@azure_msal-react.js",
+      "fileHash": "c16b1a61",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "d401aa44",
+      "needsInterop": false
+    },
+    "powerbi-client-react": {
+      "src": "../../node_modules/powerbi-client-react/dist/powerbi-client-react.js",
+      "file": "powerbi-client-react.js",
+      "fileHash": "402e6c6e",
+      "needsInterop": true
+    },
+    "powerbi-client": {
+      "src": "../../node_modules/powerbi-client/dist/powerbi.js",
+      "file": "powerbi-client.js",
+      "fileHash": "090952e0",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "BrowserPerformanceMeasurement-AIKY4D6T": {
+      "file": "BrowserPerformanceMeasurement-AIKY4D6T.js"
+    },
+    "chunk-NCONODGC": {
+      "file": "chunk-NCONODGC.js"
+    },
+    "chunk-2SEESAY2": {
+      "file": "chunk-2SEESAY2.js"
+    },
+    "chunk-TVFQMRVC": {
+      "file": "chunk-TVFQMRVC.js"
+    },
+    "chunk-6I5OBDWM": {
+      "file": "chunk-6I5OBDWM.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
 }
