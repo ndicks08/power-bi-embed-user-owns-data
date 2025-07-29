@@ -66,8 +66,8 @@ const App: React.FC = () => {
                     tokenType: models.TokenType.Embed,
                     settings: {
                         panes: {
-                            filters: {visible: false},
-                            pageNavigation: {visible: false},
+                            filters: {visible: true},
+                            pageNavigation: {visible: true},
                         },
                         background: models.BackgroundType.Transparent,
                     },
